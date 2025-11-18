@@ -1,0 +1,43 @@
+body {
+    background-color: #f2f2f2; 
+    color: #8cc7ff; 
+    font-family: Arial, sans-serif;
+    text-align: center; 
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+.image {
+    display: block;
+    margin: 20px auto;
+}
+
+
+.media-description {
+    margin-top: 8px;
+    font-size: 14px;
+    color: #6ab3ff;
+}
+
+
+.external-link {
+    color: #2448ff; 
+    text-decoration: underline;
+}
+
+h1, h2 {
+    color: #6ab3ff;
+}
+
+ol, ul {
+    display: inline-block;
+    text-align: left;      
+    margin: 0 auto;        
+    padding-left: 20px;    
+}
